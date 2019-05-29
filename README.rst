@@ -15,5 +15,4 @@ In a container
 --------------
 ::
 
-  $ xterm
   $ amide
